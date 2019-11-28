@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E2F32AD-C815-4854-A385-3FB4B32583A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeadCollector/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - 62756875f93320f6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.usernameTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - fa5530a76c71fb02"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.usernameTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - 923101c5f1e7c5f3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.usernameTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - 43ece7dda60d8c9f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.usernameTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - e37df3337dfbd705"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LeadCollector.ViewController"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "F9B6FDB9-2D19-4941-998E-555AC3400D1A - 7d20f9669de64e1e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeadCollector.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LeadCollector.ViewController&gt;"
+                  moduleName = "LeadCollector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mindhack/Desktop/LeadCollector/LeadCollector/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
